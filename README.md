@@ -1,5 +1,7 @@
 # tanstack-db-react-query-template
 
+Read more in article: [TanStack DB + TanStack Query: Step-by-step guide to combining parameter-based loading and normalized storage](https://medium.com/@dipiash/tanstack-db-query-step-by-step-guide-to-combining-parameter-based-loading-and-normalized-storage-f1e7eb3ff55e)
+
 ## Overview
 This Vite-powered template pairs TanStack React Query with TanStack DB layer to showcase optimistic updates and live queries in app.
 It bootstraps a mock-backed users table, wiring collection sync, optimistic mutations and client-side pagination so you can explore the data workflows before pointing at a real API.
